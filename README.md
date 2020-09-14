@@ -19,6 +19,8 @@ A list of Android locales for different Android versions along with the correct 
 - [API 29: Android 10](android_29.md)
 
 
-## About Localazy
+## About [Localazy](https://localazy.com/android)
 
 **The modern way to handle multilingual Android app development.** Automate app localization with Gradle plugin or CLI. Make your app speak 80 languages for free with Localazy. Trusted by productive devs worldwide.
+
+[Localize your Android app with Localazy.](https://localazy.com/android)
